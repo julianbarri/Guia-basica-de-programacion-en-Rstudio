@@ -2,4 +2,4 @@
 Guides of implementation
 
 
-## Conceptos de modelo matemático
+## Concepto de modelo matemático
